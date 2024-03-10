@@ -1,5 +1,11 @@
-a = int(nput())
-b = int(nput())
-x = a + b
+def Funcs_1():
+    a = int(5)
+    b = int(4)
+    x = a + b
+    print(x)
 
-c = a - b
+def Funcs_2():
+    a = int(5)
+    b = int(4)
+    x = a - b
+    print(x)
