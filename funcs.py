@@ -7,5 +7,5 @@ def Funcs_1():
 def Funcs_2():
     a = int(5)
     b = int(4)
-    x = a - b
-    print(x)
+    t = a - b
+    print(t)
